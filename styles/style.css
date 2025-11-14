@@ -24,6 +24,7 @@
     linear-gradient(#e7e7e7 0.01%, #1a1a1a);
   background-size: cover;
   background-attachment: fixed;
+  font-variation-settings: 'wght' 400;
 }
 
 /* Header */
@@ -74,7 +75,7 @@
 .card__title {
   margin: 3px 10px;
   font-family: var(--main-font);
-  font-weight: 700;
+  font-variation-settings: 'wght' 700;
 }
 
 .card__media {
